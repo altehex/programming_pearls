@@ -1,0 +1,12 @@
+#include <concepts>
+
+
+template<class T>
+requires std::integral<T>
+class BitVector {
+public:
+	
+private:
+	
+}
+

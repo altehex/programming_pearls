@@ -1,0 +1,5 @@
+/mnt/progpearls/build/CMakeFiles/edit_cache.dir
+/mnt/progpearls/build/CMakeFiles/rebuild_cache.dir
+/mnt/progpearls/build/1/CMakeFiles/section1.dir
+/mnt/progpearls/build/1/CMakeFiles/edit_cache.dir
+/mnt/progpearls/build/1/CMakeFiles/rebuild_cache.dir
