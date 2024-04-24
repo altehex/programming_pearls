@@ -1,5 +1,0 @@
-cmake_minimum_required(VERISON 3.16)
-
-project(section1
-  LANGUAGES CXX
-)
